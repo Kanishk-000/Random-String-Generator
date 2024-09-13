@@ -78,7 +78,7 @@ function App() {
   return (
     <>
       <main className='flex flex-col py-5 gap-10'>
-        <h1 className='logo text-center text-4xl lg:text-7xl text-red-600'>Random String Generator</h1>
+        <h1 className='logo text-center text-4xl lg:text-7xl text-[#76ABAE]'>Random String Generator</h1>
         <div className="generator flex items-center justify-center">
           <div className="container flex gap-5 flex-col items-center lg:flex-row lg:items-start">
             <Options props = {props}/>

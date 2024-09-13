@@ -24,7 +24,7 @@ const Options = ({ props }) => {
         props.setCustom(e.target.value);
     }
     return (
-        <div className='bg-[#31363F] w-[95%] lg:w-[50%] rounded-xl flex h-[500px] items-center justify-center px-5'>
+        <div className='bg-[#31363F] w-[95%] lg:w-[50%] rounded-xl flex h-[550px] items-center justify-center px-5'>
             <div className="container flex flex-col gap-4">
 
                 <div className="lowerCase flex gap-2 items-center">
